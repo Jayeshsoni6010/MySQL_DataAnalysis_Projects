@@ -48,16 +48,16 @@ This project analyzes an E-commerce Customer-to-Customer (C2C) platform using a 
 
 **🔹 Product Transactions**
 
--Average products sold/bought by male users per country.
+- Average products sold/bought by male users per country.
 
 ## 📊 Insights
 
-✅ Male vs Female Followers: SQL analysis checked which gender has more total followers.
-✅ App Usage: Significant portion of users access via Android/iOS apps.
-✅ Buyer-Seller Distribution: Clear country-level differences in products bought vs sold.
-✅ Engagement: Female users tend to wishlist or socially like products; male users show stronger buy/sell behavior.
-✅ Activity Trends: Some users inactive for 100+ days highlight churn risk.
-✅ Market Potential: Certain countries have zero sellers but active buyers — untapped opportunity.
+- ✅ Male vs Female Followers: SQL analysis checked which gender has more total followers.
+- ✅ App Usage: Significant portion of users access via Android/iOS apps.
+- ✅ Buyer-Seller Distribution: Clear country-level differences in products bought vs sold.
+- ✅ Engagement: Female users tend to wishlist or socially like products; male users show stronger buy/sell behavior.
+- ✅ Activity Trends: Some users inactive for 100+ days highlight churn risk.
+- ✅ Market Potential: Certain countries have zero sellers but active buyers — untapped opportunity.
 
 ## 🛠 Tools & Skills
 
